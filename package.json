@@ -33,6 +33,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:examples": "vite build --config examples.vite.config.js",
     "preview": "vite preview"
   },
   "dependencies": {
